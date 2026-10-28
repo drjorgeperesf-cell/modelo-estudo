@@ -1,0 +1,11 @@
+{
+  "nome": "Meu Estudo",
+  "subtitulo": "Exemplo: preparação para teste de inglês",
+  "cor": "#1d4e89",
+  "metaDiaria": 10,
+  "areas": [
+    { "id": "gramatica", "nome": "Gramática" },
+    { "id": "vocabulario", "nome": "Vocabulário" },
+    { "id": "leitura", "nome": "Leitura" }
+  ]
+}

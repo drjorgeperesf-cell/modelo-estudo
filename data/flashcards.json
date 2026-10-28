@@ -1,0 +1,14 @@
+[
+  { "id": "c1", "area": "gramatica", "frente": "Presente simples, 3ª pessoa do singular", "verso": "Acrescente -s/-es: she works, he goes." },
+  { "id": "c2", "area": "gramatica", "frente": "Quando usar o past perfect?", "verso": "Para uma ação anterior a outra no passado.\nI had left before she called." },
+  { "id": "c3", "area": "gramatica", "frente": "Segunda condicional (estrutura)", "verso": "If + passado simples, would + verbo.\nIf I had time, I would travel." },
+  { "id": "c4", "area": "gramatica", "frente": "in, on, at com tempo", "verso": "in: meses e anos\non: dias\nat: horas" },
+  { "id": "c5", "area": "vocabulario", "frente": "actually", "verso": "na verdade (falso cognato de \"atualmente\")" },
+  { "id": "c6", "area": "vocabulario", "frente": "attend", "verso": "comparecer, assistir (atender ao telefone = answer)" },
+  { "id": "c7", "area": "vocabulario", "frente": "turn off / turn on", "verso": "desligar / ligar" },
+  { "id": "c8", "area": "vocabulario", "frente": "call off", "verso": "cancelar" },
+  { "id": "c9", "area": "vocabulario", "frente": "look forward to", "verso": "aguardar com expectativa (seguido de verbo -ing)" },
+  { "id": "c10", "area": "leitura", "frente": "despite", "verso": "apesar de (seguido de substantivo ou -ing)" },
+  { "id": "c11", "area": "leitura", "frente": "Como achar a ideia principal?", "verso": "Leia a primeira e a última frase; ela resume o que o resto sustenta." },
+  { "id": "c12", "area": "leitura", "frente": "Questão de inferência", "verso": "A resposta não está escrita: conclua a partir de pistas do texto." }
+]

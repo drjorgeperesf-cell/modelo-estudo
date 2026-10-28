@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1", "area": "gramatica", "tema": "Tempos verbais",
+    "enunciado": "She ____ to the gym every morning before work.",
+    "alternativas": ["go", "goes", "going", "gone"], "gabarito": 1,
+    "comentario": "Com sujeito na terceira pessoa do singular (she) e hábito, o presente simples leva -s/-es: goes."
+  },
+  {
+    "id": "g2", "area": "gramatica", "tema": "Tempos verbais",
+    "enunciado": "By the time we arrived, the movie ____.",
+    "alternativas": ["already started", "has already started", "had already started", "was already start"], "gabarito": 2,
+    "comentario": "Ação concluída antes de outro ponto no passado pede o past perfect: had already started."
+  },
+  {
+    "id": "g3", "area": "gramatica", "tema": "Preposições",
+    "enunciado": "The meeting is ____ Monday ____ 9 a.m.",
+    "alternativas": ["in / at", "on / at", "at / on", "on / in"], "gabarito": 1,
+    "comentario": "Dia da semana usa on; hora exata usa at."
+  },
+  {
+    "id": "g4", "area": "gramatica", "tema": "Condicionais",
+    "enunciado": "If I ____ more time, I would learn another language.",
+    "alternativas": ["have", "had", "will have", "would have"], "gabarito": 1,
+    "comentario": "Segunda condicional (situação improvável): if + passado simples, would + verbo."
+  },
+  {
+    "id": "v1", "area": "vocabulario", "tema": "Falsos cognatos",
+    "enunciado": "In English, the word \"actually\" most nearly means:",
+    "alternativas": ["atualmente", "na verdade", "ultimamente", "imediatamente"], "gabarito": 1,
+    "comentario": "Actually = na verdade. Atualmente = currently."
+  },
+  {
+    "id": "v2", "area": "vocabulario", "tema": "Falsos cognatos",
+    "enunciado": "\"I need to attend the meeting\" means that I need to:",
+    "alternativas": ["atender o telefone", "comparecer à reunião", "esperar a reunião", "cancelar a reunião"], "gabarito": 1,
+    "comentario": "Attend = comparecer, assistir. Atender o telefone = answer the phone."
+  },
+  {
+    "id": "v3", "area": "vocabulario", "tema": "Phrasal verbs",
+    "enunciado": "Please ____ the lights when you leave the room.",
+    "alternativas": ["turn off", "turn up", "turn into", "turn over"], "gabarito": 0,
+    "comentario": "Turn off = desligar. Turn up = aumentar; turn into = transformar-se; turn over = virar."
+  },
+  {
+    "id": "v4", "area": "vocabulario", "tema": "Phrasal verbs",
+    "enunciado": "We had to ____ the trip because of the storm.",
+    "alternativas": ["call off", "call on", "call up", "call for"], "gabarito": 0,
+    "comentario": "Call off = cancelar."
+  },
+  {
+    "id": "l1", "area": "leitura", "tema": "Ideia principal",
+    "enunciado": "Text: \"Remote work saves commuting time and lowers costs, but many workers say they miss casual talks with colleagues.\"\n\nWhat is the main idea?",
+    "alternativas": ["Remote work has advantages and a social drawback.", "Remote work is always cheaper.", "Colleagues dislike talking.", "Commuting is faster today."], "gabarito": 0,
+    "comentario": "O texto lista vantagens (tempo e custo) e uma desvantagem (menos conversas informais)."
+  },
+  {
+    "id": "l2", "area": "leitura", "tema": "Ideia principal",
+    "enunciado": "Text: \"The museum is free on Sundays, but tickets must be booked online in advance.\"\n\nWhat must a visitor do on Sunday?",
+    "alternativas": ["Pay at the door.", "Book a ticket online beforehand.", "Arrive before noon.", "Bring a guide."], "gabarito": 1,
+    "comentario": "Free não significa sem reserva: os ingressos devem ser reservados online antes."
+  },
+  {
+    "id": "l3", "area": "leitura", "tema": "Inferência",
+    "enunciado": "Text: \"Tom looked at the empty fridge, sighed, and picked up his keys.\"\n\nWhat will Tom probably do next?",
+    "alternativas": ["Cook dinner.", "Go shopping for food.", "Clean the fridge.", "Call a plumber."], "gabarito": 1,
+    "comentario": "Geladeira vazia + pegar as chaves sugere sair para comprar comida."
+  },
+  {
+    "id": "l4", "area": "leitura", "tema": "Inferência",
+    "enunciado": "Text: \"Despite the rain, thousands of fans stayed until the final song.\"\n\nWhat does \"despite\" suggest?",
+    "alternativas": ["The fans left early.", "The rain did not stop the fans.", "The rain caused the concert.", "The final song was cancelled."], "gabarito": 1,
+    "comentario": "Despite = apesar de: contraste entre a chuva e a permanência dos fãs."
+  }
+]

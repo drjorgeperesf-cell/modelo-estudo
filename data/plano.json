@@ -1,0 +1,9 @@
+[
+  { "dia": 1, "area": "gramatica", "texto": "10 questões de gramática e revisar os cartões." },
+  { "dia": 2, "area": "vocabulario", "texto": "10 questões de vocabulário e 5 phrasal verbs novos." },
+  { "dia": 3, "area": "leitura", "texto": "Ler um texto curto e responder 10 questões." },
+  { "dia": 4, "area": "gramatica", "texto": "Refazer as questões erradas da semana." },
+  { "dia": 5, "area": "vocabulario", "texto": "Revisão geral de cartões." },
+  { "dia": 6, "area": "leitura", "texto": "Simulado curto (20 questões misturadas)." },
+  { "dia": 0, "area": "gramatica", "texto": "Descanso leve: só os cartões devidos." }
+]

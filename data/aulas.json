@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a1", "area": "gramatica", "titulo": "Tempos verbais em 5 minutos",
+    "resumo": "Resumo escrito: presente, passado e past perfect.",
+    "texto": "Presente simples: hábitos (she works).\nPassado simples: ação concluída (she worked).\nPast perfect: antes de outro passado (she had worked)."
+  },
+  {
+    "id": "a2", "area": "vocabulario", "titulo": "Phrasal verbs mais cobrados",
+    "resumo": "Para vídeo, ponha em \"url\" o link de um vídeo do YouTube: ele abre dentro do app.",
+    "texto": "turn off = desligar; call off = cancelar; look forward to = aguardar com expectativa."
+  },
+  {
+    "id": "a3", "area": "leitura", "titulo": "Estratégia de leitura rápida",
+    "resumo": "Link externo de exemplo.",
+    "url": "https://www.bbc.co.uk/learningenglish"
+  }
+]
